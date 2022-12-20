@@ -84,5 +84,6 @@ Step 10: Since Local Repository is not in sync with Remote Repository we need to
         53757e1..87db35a  main -> main
 Step 11: Refresh the Github page to see the modified changes in files.
 step 12: Add your scrum team
+I understand github
 
 
